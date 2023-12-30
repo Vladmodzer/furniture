@@ -1,0 +1,6 @@
+.SaleStatus {
+    border-radius: 4px;
+    padding: 6px 10px;
+    color: var(--GrayScalesWhite);
+    background: var(--StatusWarning);
+}

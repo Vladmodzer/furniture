@@ -1,0 +1,38 @@
+.BuyCardActive {
+    border-radius: 8px;
+    background: var(--GrayScalesOffWhite);
+    width: 44px;
+    height: 44px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.BuyCardActive:hover {
+    background: var(--AccentsAccents);
+    
+}
+.BuyCardActive:hover .price-color {
+    stroke: var(--GrayScalesWhite);
+
+}
+.BuyCardActive:hover .price-color2 {
+    stroke: var(--GrayScalesWhite);
+
+}
+.BuyCardActive:hover .price-color2 {
+    stroke: var(--GrayScalesWhite);
+    fill:var(--GrayScalesWhite);
+
+}
+.BuyCardActive:hover .price-color3 {
+    stroke: var(--GrayScalesWhite);
+    fill:var(--GrayScalesWhite);
+
+}
+.BuyCardActive:hover .price-color4 {
+    stroke: var(--GrayScalesWhite);
+    fill:var(--GrayScalesWhite);
+
+}
+
